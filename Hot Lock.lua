@@ -35,12 +35,12 @@ _G.TargetAim = {
     ["Circle-Thickness"] = 2, 
     ["Filled-Circle"] = true,
     ["Circle-Transparency"] = 0.5, --Invisible
-    ["Visible-Check"] = false,
-    ["Down-Check"] = false, -- For Hood Customs and Untitled Hood
+    ["Visible-Check"] = true,
+    ["Down-Check"] = true, -- For Hood Customs and Untitled Hood
     ["Dot"] = true,
-    ["Dot-Color"] = Color3.fromRGB(255,255,255),
-    ["Tracer"] = false,
-    ["Tracer-Color"] = Color3.fromRGB(255,255,255),
+    ["Dot-Color"] = Color3.fromRGB(0, 0, 139),
+    ["Tracer"] = true,
+    ["Tracer-Color"] = Color3.fromRGB(0, 0, 139),
     ["Highlight"] = false,
     ["Highlight-Color"] = Color3.fromRGB(255,255,255),
 }
